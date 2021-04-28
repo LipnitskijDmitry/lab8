@@ -1,0 +1,1 @@
+package bsu.rfe.java.group7.lab8.Lipnitskij.var3.entity;
